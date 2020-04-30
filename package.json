@@ -23,7 +23,7 @@
     "truffle-contract": "^3.0.7"
   },
   "dependencies": {
-    "jquery": "^1.9.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.7"
   }
 }
